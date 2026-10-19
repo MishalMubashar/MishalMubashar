@@ -1,10 +1,9 @@
-<!-- =========================================================
+ <!-- =========================================================
      MISHAL MUBASHAR | GITHUB PROFILE README
      Repository: MishalMubashar/MishalMubashar
-     Replace all placeholder usernames, links, and images.
 ========================================================== -->
 
-<!-- ================= RESPONSIVE HERO BANNER ================= -->
+<!-- ================= HERO BANNER ================= -->
 
 <picture>
   <source
@@ -16,13 +15,10 @@
     srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:F8BBD0,100:EF93C4&height=220&section=header&text=Mishal%20Mubashar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=17&descAlignY=58"
   />
   <img
-    alt="Mishal Mubashar — GitHub Profile Banner"
- <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Software+Engineering+Student+%F0%9F%92%BB;Aspiring+Software+Developer+%F0%9F%8C%B8;Java+%7C+C%2B%2B+%7C+Python+%7C+C%23+%7C+HTML+%7C+CSS;Turning+Ideas+Into+Reality+%E2%9C%A8;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%92%97"
-    alt="Animated typing introduction"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Mishal%20Mubashar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=17&descAlignY=58"
+    alt="Mishal Mubashar GitHub profile banner"
+    width="100%"
   />
-</p>
 </picture>
 
 <!-- ================= INTRODUCTION ================= -->
@@ -32,24 +28,20 @@
 # Hey there, I'm Mishal Mubashar 👋
 
 <img
-  src="https://readme-typing-svg.demolab.com?<p align="center">
-font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Software+Engineering+Student+%F0%9F%92%BB;Aspiring+Software+Developer+%F0%9F%8C%B8;Java+%7C+C%2B%2B+%7C+Python+%7C+C%23+%7C+HTML+%7C+CSS;Turning+Ideas+Into+Reality+%E2%9C%A8;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%92%97" alt="Typing SVG" />
-</p>
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Software+Engineering+Student+%F0%9F%92%BB;Aspiring+Software+Developer+%F0%9F%8C%B8;Java+%7C+C%2B%2B+%7C+Python+%7C+C%23+%7C+HTML+%7C+CSS;Turning+Ideas+Into+Reality+%E2%9C%A8;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%92%97"
   alt="Animated typing introduction"
 />
 
-<p>
-  <em>Building meaningful projects, exploring new technologies, and turning curiosity into code.</em>
-</p>
+<p><em>Building meaningful projects, exploring new technologies, and turning curiosity into code.</em></p>
 
 <p>
   <a href="https://github.com/MishalMubashar">
-    <img src="https://img.shields.io/github/followers/MishalMubashar?label=Followers&style=for-the-badge&color=EF93C4&labelColor=242424&logo=github&logoColor=white" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/MishalMubashar?label=Followers&style=for-the-badge&color=EF93C4&labelColor=242424&logo=github&logoColor=white" alt="GitHub followers"/>
   </a>
   <a href="https://github.com/MishalMubashar?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MishalMubashar?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=242424&logo=github&logoColor=white" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/MishalMubashar?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=242424&logo=github&logoColor=white" alt="GitHub stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MishalMubashar&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MishalMubashar&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <p>
@@ -74,7 +66,7 @@ font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=EF93C4&center=tr
 I'm a Software Engineering student passionate about programming, software development, and creating practical solutions through technology.
 
 - 🎓 Studying **Software Engineering**
-- 💻 Exploring **Java, C++, Python, HTML, and C#**
+- 💻 Exploring **Java, C++, Python, C#, HTML, and CSS**
 - 🛠️ Building projects with graphical interfaces and databases
 - 🧠 Strengthening my problem-solving and data structures skills
 - 🌱 Learning new tools and improving my development workflow
@@ -90,8 +82,7 @@ I'm a Software Engineering student passionate about programming, software develo
 <img
   src="https://github.com/MishalMubashar.png"
   width="220"
-  alt="Mishal Mubashar GitHub Avatar"
-  style="border-radius: 50%; max-width: 100%;"
+  alt="Mishal Mubashar GitHub avatar"
 />
 
 <br/>
@@ -106,21 +97,21 @@ I'm a Software Engineering student passionate about programming, software develo
 
 <!-- ================= TECH STACK ================= -->
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<h2 align="center">💻 Tech Stack &amp; Tools</h2>
 
 <div align="center">
 
-### Programming Languages
+### Programming Languages &amp; Web
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,cs,html,css,javascript&theme=light" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,cs,html,css,javascript&theme=light" alt="Programming languages and web technologies"/>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,mysql,sqlite&theme=light" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,mysql,sqlite&theme=light" alt="Development tools"/>
 
 ### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions&theme=light" alt="Technologies to Explore" />
+<img src="https://skillicons.dev/icons?i=linux,docker,githubactions&theme=light" alt="Technologies to explore"/>
 
 <br/>
 
@@ -140,7 +131,7 @@ I'm a Software Engineering student passionate about programming, software develo
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=MishalMubashar&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=omni&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0"
-    alt="Mishal's GitHub Statistics"
+    alt="Mishal's GitHub statistics"
   />
 </a>
 
@@ -148,7 +139,7 @@ I'm a Software Engineering student passionate about programming, software develo
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishalMubashar&layout=compact&langs_count=8&hide_border=true&theme=omni&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0"
-    alt="Most Used Programming Languages"
+    alt="Most used programming languages"
   />
 </a>
 
@@ -156,7 +147,7 @@ I'm a Software Engineering student passionate about programming, software develo
 
 <img
   src="https://streak-stats.demolab.com?user=MishalMubashar&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=EF93C4&stroke=FF69B4"
-  alt="GitHub Contribution Streak"
+  alt="GitHub contribution streak"
 />
 
 </div>
@@ -171,9 +162,9 @@ I'm a Software Engineering student passionate about programming, software develo
 
 <a href="https://github.com/MishalMubashar">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MishalMubashar&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&custom_title=Mishal's%20Contribution%20Garden"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MishalMubashar&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&custom_title=Mishal%27s%20Contribution%20Garden"
     width="100%"
-    alt="GitHub Contribution Activity Graph"
+    alt="GitHub contribution activity graph"
   />
 </a>
 
@@ -187,129 +178,104 @@ I'm a Software Engineering student passionate about programming, software develo
 
 <div align="center">
 
-<p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MishalMubashar/MishalMubashar/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MishalMubashar/MishalMubashar/output/github-contribution-grid-snake.svg"
+  />
   <img
     src="https://raw.githubusercontent.com/MishalMubashar/MishalMubashar/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
+    alt="GitHub contribution snake animation"
     width="100%"
   />
-</p>
+</picture>
 
 </div>
 
 <!--
-  CONTRIBUTION SNAKE SETUP
+SNAKE WORKFLOW SETUP
 
-  Create this file in your profile repository:
-  .github/workflows/snake.yml
+Create this file:
+.github/workflows/snake.yml
 
-  Add the following GitHub Actions workflow:
+Paste the following into that file:
 
-  name: Generate Contribution Snake
+name: Generate Contribution Snake
 
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-    push:
-      branches:
-        - main
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-  permissions:
-    contents: write
+permissions:
+  contents: write
 
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      timeout-minutes: 10
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
-      steps:
-        - name: Generate contribution snake
-          uses: Platane/snk@v3
-          with:
-            github_user_name: MishalMubashar
-            outputs: |
-              dist/github-contribution-grid-snake.svg?palette=github-light
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: MishalMubashar
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-        - name: Publish snake to output branch
-          uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  After adding the workflow:
-  1. Commit and push the file.
-  2. Open the repository's Actions tab.
-  3. Enable workflows if prompted.
-  4. Run "Generate Contribution Snake" manually.
-  5. Confirm the output branch is created.
-  6. Use the generated SVG URL in this README.
+After creating the workflow:
+1. Commit the file.
+2. Open the repository's Actions tab.
+3. Run "Generate Contribution Snake" manually.
+4. Check that the output branch is created.
 
-  For a light/dark adaptive snake, replace the single image above with:
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MishalMubashar/MishalMubashar/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MishalMubashar/MishalMubashar/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/MishalMubashar/MishalMubashar/output/github-contribution-grid-snake.svg"
-      alt="GitHub contribution snake"
-      width="100%"
-    />
-  </picture>
+The snake images will not display until the workflow succeeds.
 -->
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
+<!-- ================= PROJECTS ================= -->
 
-<h2 align="center">🚀 Projects & Experiments</h2>
+<h2 align="center">🚀 Projects &amp; Experiments</h2>
 
 <div align="center">
 
 <a href="https://github.com/MishalMubashar?tab=repositories">
   <img
     src="https://img.shields.io/badge/Explore-My%20Repositories-FF69B4?style=for-the-badge&logo=github&logoColor=white"
-    alt="Explore My Repositories"
+    alt="Explore my repositories"
   />
 </a>
 
-<p>
-  <em>Every project is an opportunity to learn, experiment, and create something better.</em>
-</p>
+<p><em>Every project is an opportunity to learn, experiment, and create something better.</em></p>
 
 </div>
 
-<!--
-  OPTIONAL: Replace this section with individual project cards.
-
-  <a href="https://github.com/MishalMubashar/PROJECT_NAME">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MishalMubashar&repo=PROJECT_NAME&theme=omni&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4"
-      alt="Project Name"
-    />
-  </a>
--->
-
 ---
 
-<!-- ================= CONNECT WITH ME ================= -->
+<!-- ================= CONNECT ================= -->
 
 <h2 align="center">💌 Let's Connect</h2>
 
 <div align="center">
 
-<p>
-  <em>Have an idea, an opportunity, or a project in mind? Let's connect!</em>
-</p>
+<p><em>Have an idea, an opportunity, or a project in mind? Let's connect!</em></p>
 
 <a href="https://www.linkedin.com/in/MishalMubashar/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -322,7 +288,9 @@ I'm a Software Engineering student passionate about programming, software develo
 <a href="https://www.instagram.com/MishalMubashar/">
   <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+
 <br/><br/>
+
 <a href="https://www.tiktok.com/@MishalMubashar">
   <img src="https://img.shields.io/badge/TikTok-Follow-F8BBD0?style=for-the-badge&logo=tiktok&logoColor=242424" alt="TikTok"/>
 </a>
@@ -337,7 +305,7 @@ I'm a Software Engineering student passionate about programming, software develo
 
 <br/><br/>
 
-<sub>Replace these links with your actual public profiles and preferred contact email.</sub>
+<sub>Replace the social links and email with your actual public profiles and contact details.</sub>
 
 </div>
 
@@ -349,9 +317,7 @@ I'm a Software Engineering student passionate about programming, software develo
 
 <h3>💗 Thanks for visiting my little corner of GitHub!</h3>
 
-<p>
-  <em>Keep creating. Keep learning. Keep making a difference.</em>
-</p>
+<p><em>Keep creating. Keep learning. Keep making a difference.</em></p>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:F8BBD0,100:EF93C4&height=120&section=footer"
@@ -361,6 +327,4 @@ I'm a Software Engineering student passionate about programming, software develo
 
 </div>
 
-<!-- =========================================================
-     END OF PROFILE README
-========================================================== -->
+<!-- END OF PROFILE README -->
