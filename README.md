@@ -76,9 +76,6 @@
   and improve a little every day.
 </p>
 
-    </td>
-    <td width="35%" align="center" valign="middle">
-
 <img
   src="https://github.com/MishalMubashar.png"
   width="200"
@@ -87,7 +84,6 @@
 
 <p><em>Dream big. Code beautifully. Keep growing. 🌷</em></p>
 
-    </td>
   </tr>
 </table>
 
