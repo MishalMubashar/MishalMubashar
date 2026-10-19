@@ -158,11 +158,7 @@
 <!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 <h2 align="center">🌷 Contribution Activity</h2>
-## 📈 My GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MishalMubashar&bg_color=ffffff&color=EF93C4&line=FF69B4&point=EF93C4&area=true&hide_border=true" alt="Mishal Mubashar GitHub Contribution Graph" width="100%" />
-</p>
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
 <h2 align="center">🐍 Watch My Contributions Grow</h2>
