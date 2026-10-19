@@ -30,7 +30,7 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Software+Engineering+Student+%F0%9F%92%BB;Aspiring+Software+Developer+%F0%9F%8C%B8;Java+%7C+C%2B%2B+%7C+Python+%7C+C%23+%7C+HTML+%7C+CSS;Turning+Ideas+Into+Reality+%E2%9C%A8;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%92%97" alt="Typing SVG" />
+font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Software+Engineering+Student+%F0%9F%92%BB;Aspiring+Software+Developer+%F0%9F%8C%B8;Java+%7C+C%2B%2B+%7C+Python+%7C+C%23+%7C+HTML+%7C+CSS;Turning+Ideas+Into+Reality+%E2%9C%A8;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%92%97" alt="Typing SVG" />
 </p>
   alt="Animated typing introduction"
 />
