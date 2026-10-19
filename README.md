@@ -61,33 +61,46 @@
   <tr>
     <td width="65%" valign="middle">
 
-### Hi, I'm Mishal! 💗
+<h2 align="center">🌸 About Me</h2>
 
-I'm a Software Engineering student passionate about programming, software development, and creating practical solutions through technology.
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="65%" valign="top">
 
-- 🎓 Studying **Software Engineering**
-- 💻 Exploring **Java, C++, Python, C#, HTML, and CSS**
-- 🛠️ Building projects with graphical interfaces and databases
-- 🧠 Strengthening my problem-solving and data structures skills
-- 🌱 Learning new tools and improving my development workflow
-- 🎨 Interested in aesthetic UI design and user-friendly applications
-- 🤝 Open to collaboration, exciting projects, and learning opportunities
-- ✨ My goal: to become a skilled developer who builds useful software
+      <h3>Hi, I'm Mishal! 💗</h3>
 
-**Current mindset:** Learn something new, build something meaningful, and improve a little every day.
+      <p>
+        I'm a Software Engineering student passionate about programming,
+        software development, and creating practical solutions through technology.
+      </p>
+
+      <ul>
+        <li>🎓 Studying <strong>Software Engineering</strong></li>
+        <li>💻 Exploring <strong>Java, C++, Python, C#, HTML, and CSS</strong></li>
+        <li>🛠️ Building projects with graphical interfaces and databases</li>
+        <li>🧠 Improving my problem-solving and data structures skills</li>
+        <li>🌱 Learning new tools and development techniques</li>
+        <li>🎨 Interested in aesthetic UI design and user-friendly applications</li>
+        <li>🤝 Open to collaboration and learning opportunities</li>
+        <li>✨ My goal is to become a skilled software developer</li>
+      </ul>
+
+      <p>
+        <strong>My mindset:</strong> Learn something new, build something meaningful,
+        and improve a little every day.
+      </p>
 
     </td>
+
     <td width="35%" align="center" valign="middle">
 
-<img
-  src="https://github.com/MishalMubashar.png"
-  width="220"
-  alt="Mishal Mubashar GitHub avatar"
-/>
+      <img
+        src="https://github.com/MishalMubashar.png"
+        width="200"
+        alt="Mishal Mubashar GitHub avatar"
+      />
 
-<br/>
-
-<em>Dream big. Code beautifully. Keep growing. 🌷</em>
+      <p><em>Dream big. Code beautifully. Keep growing. 🌷</em></p>
 
     </td>
   </tr>
