@@ -1,25 +1,17 @@
- <!-- =========================================================
+<!-- =========================================================
      MISHAL MUBASHAR | GITHUB PROFILE README
      Repository: MishalMubashar/MishalMubashar
 ========================================================== -->
 
 <!-- ================= HERO BANNER ================= -->
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Mishal%20Mubashar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=17&descAlignY=58"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:F8BBD0,100:EF93C4&height=220&section=header&text=Mishal%20Mubashar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=17&descAlignY=58"
-  />
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Mishal%20Mubashar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=17&descAlignY=58"
     alt="Mishal Mubashar GitHub profile banner"
     width="100%"
   />
-</picture>
+</p>
 
 <!-- ================= INTRODUCTION ================= -->
 
@@ -59,48 +51,41 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
-    <td width="65%" valign="middle">
-
-<h2 align="center">🌸 About Me</h2>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
-  <tr>
     <td width="65%" valign="top">
 
-      <h3>Hi, I'm Mishal! 💗</h3>
+<h3>Hi, I'm Mishal! 💗</h3>
 
-      <p>
-        I'm a Software Engineering student passionate about programming,
-        software development, and creating practical solutions through technology.
-      </p>
+<p>
+  I'm a Software Engineering student passionate about programming,
+  software development, and creating practical solutions through technology.
+</p>
 
-      <ul>
-        <li>🎓 Studying <strong>Software Engineering</strong></li>
-        <li>💻 Exploring <strong>Java, C++, Python, C#, HTML, and CSS</strong></li>
-        <li>🛠️ Building projects with graphical interfaces and databases</li>
-        <li>🧠 Improving my problem-solving and data structures skills</li>
-        <li>🌱 Learning new tools and development techniques</li>
-        <li>🎨 Interested in aesthetic UI design and user-friendly applications</li>
-        <li>🤝 Open to collaboration and learning opportunities</li>
-        <li>✨ My goal is to become a skilled software developer</li>
-      </ul>
+<ul>
+  <li>🎓 Studying <strong>Software Engineering</strong></li>
+  <li>💻 Working with <strong>Java, C++, Python, C#, HTML, and CSS</strong></li>
+  <li>🛠️ Building projects with graphical interfaces and databases</li>
+  <li>🧠 Improving my problem-solving and data structures skills</li>
+  <li>🌱 Learning new tools and development techniques</li>
+  <li>🎨 Interested in aesthetic UI design and user-friendly applications</li>
+  <li>🤝 Open to collaboration and learning opportunities</li>
+  <li>✨ Aiming to become a skilled software developer</li>
+</ul>
 
-      <p>
-        <strong>My mindset:</strong> Learn something new, build something meaningful,
-        and improve a little every day.
-      </p>
+<p>
+  <strong>My mindset:</strong> Learn something new, build something meaningful,
+  and improve a little every day.
+</p>
 
     </td>
-
     <td width="35%" align="center" valign="middle">
 
-      <img
-        src="https://github.com/MishalMubashar.png"
-        width="200"
-        alt="Mishal Mubashar GitHub avatar"
-      />
+<img
+  src="https://github.com/MishalMubashar.png"
+  width="200"
+  alt="Mishal Mubashar GitHub avatar"
+/>
 
-      <p><em>Dream big. Code beautifully. Keep growing. 🌷</em></p>
+<p><em>Dream big. Code beautifully. Keep growing. 🌷</em></p>
 
     </td>
   </tr>
@@ -114,21 +99,28 @@
 
 <div align="center">
 
-### Programming Languages &amp; Web
+<h3>Programming Languages &amp; Web Development</h3>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,cs,html,css,javascript&theme=light" alt="Programming languages and web technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=java,cpp,python,cs,html,css,javascript&theme=light"
+  alt="Java, C++, Python, C sharp, HTML, CSS, and JavaScript"
+/>
 
-### Development Tools
+<h3>Development Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,mysql,sqlite&theme=light" alt="Development tools"/>
+<img
+  src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,mysql,sqlite&theme=light"
+  alt="Visual Studio, VS Code, IntelliJ IDEA, Git, GitHub, MySQL, and SQLite"
+/>
 
-### Currently Exploring
+<h3>Currently Exploring</h3>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions&theme=light" alt="Technologies to explore"/>
+<img
+  src="https://skillicons.dev/icons?i=linux,docker,githubactions&theme=light"
+  alt="Linux, Docker, and GitHub Actions"
+/>
 
-<br/>
-
-<sub>Always curious about new technologies and better ways to build software. ✨</sub>
+<p><em>Always curious about new technologies and better ways to build software. ✨</em></p>
 
 </div>
 
@@ -167,7 +159,7 @@
 
 ---
 
-<!-- ================= ACTIVITY GRAPH ================= -->
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 <h2 align="center">🌷 Contribution Activity</h2>
 
@@ -212,10 +204,10 @@
 <!--
 SNAKE WORKFLOW SETUP
 
-Create this file:
+Create this file separately:
 .github/workflows/snake.yml
 
-Paste the following into that file:
+Paste the following into snake.yml:
 
 name: Generate Contribution Snake
 
@@ -244,7 +236,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake
+      - name: Publish contribution snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -252,13 +244,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-After creating the workflow:
-1. Commit the file.
+After setting up the workflow:
+1. Commit the snake.yml file.
 2. Open the repository's Actions tab.
 3. Run "Generate Contribution Snake" manually.
-4. Check that the output branch is created.
+4. Confirm that the workflow succeeds and creates the output branch.
 
-The snake images will not display until the workflow succeeds.
+The snake images will not appear until the workflow has generated them.
 -->
 
 ---
@@ -318,7 +310,7 @@ The snake images will not display until the workflow succeeds.
 
 <br/><br/>
 
-<sub>Replace the social links and email with your actual public profiles and contact details.</sub>
+<sub>Replace the social links and email address with your actual public profiles and contact details.</sub>
 
 </div>
 
