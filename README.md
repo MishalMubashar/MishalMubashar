@@ -162,11 +162,11 @@
 <div align="center">
 
 <a href="https://github.com/MishalMubashar">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MishalMubashar&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&custom_title=Mishal%27s%20Contribution%20Garden"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
+  ## 📈 My GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MishalMubashar&bg_color=ffffff&color=EF93C4&line=FF69B4&point=EF93C4&area=true&hide_border=true" alt="Mishal Mubashar's GitHub Contribution Graph" width="100%" />
+</p>
 </a>
 
 </div>
