@@ -17,9 +17,12 @@
   />
   <img
     alt="Mishal Mubashar — GitHub Profile Banner"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Mishal%20Mubashar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=17&descAlignY=58"
-    width="100%"
+ <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Software+Engineering+Student+%F0%9F%92%BB;Aspiring+Software+Developer+%F0%9F%8C%B8;Java+%7C+C%2B%2B+%7C+Python+%7C+C%23+%7C+HTML+%7C+CSS;Turning+Ideas+Into+Reality+%E2%9C%A8;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%92%97"
+    alt="Animated typing introduction"
   />
+</p>
 </picture>
 
 <!-- ================= INTRODUCTION ================= -->
